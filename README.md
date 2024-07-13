@@ -1,4 +1,4 @@
-# Dell PowerEdge R730XD Fan Control Script
+# Dell PowerEdge R730 Family Fan Control Script
 
 ## Descripción
 
