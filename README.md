@@ -4,7 +4,7 @@ This script automatically adjusts the fan speeds of Dell PowerEdge R730 family s
 
 ## Available Languages / Idiomas Disponibles
 
-- [English](README.md)
+- [English](README_en.md)
 - [Español](README_es.md)
 
 ## Description
