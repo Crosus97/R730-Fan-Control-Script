@@ -25,7 +25,7 @@ Este script de Bash ajusta automáticamente las velocidades de los ventiladores 
 
 1. Clone este repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/r730xd-fan-control.git
+    git clone https://github.com/Crosus97/r730-fan-control.git
     cd r730xd-fan-control
     ```
 
